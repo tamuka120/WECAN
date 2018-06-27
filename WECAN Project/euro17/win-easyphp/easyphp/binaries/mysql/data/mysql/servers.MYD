@@ -1,0 +1,30 @@
+2017-03-10 22:33:43 2324 [Note] Event Scheduler: Loaded 0 events
+2017-03-10 22:33:43 2324 [Note] C:\Users\admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-30 16:16:27 7096 [Note] Event Scheduler: Loaded 0 events
+2017-03-30 16:16:27 7096 [Note] C:\Users\admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-30 16:17:01 47c InnoDB: Error: page 3 log sequence number 7089396
+InnoDB: is in the future! Current system log sequence number 7066861.
+InnoDB: Your database may be corrupt or you may have copied the InnoDB
+InnoDB: tablespace but not the InnoDB log files. See
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/forcing-innodb-recovery.html
+InnoDB: for more information.
+2017-03-30 16:17:01 47c InnoDB: Error: page 3 log sequence number 7089725
+InnoDB: is in the future! Current system log sequence number 7066861.
+InnoDB: Your database may be corrupt or you may have copied the InnoDB
+InnoDB: tablespace but not the InnoDB log files. See
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/forcing-innodb-recovery.html
+InnoDB: for more information.
+2017-03-30 16:17:01 47c InnoDB: Error: page 3 log sequence number 7091337
+InnoDB: is in the future! Current system log sequence number 7066861.
+InnoDB: Your database may be corrupt or you may have copied the InnoDB
+InnoDB: tablespace but not the InnoDB log files. See
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/forcing-innodb-recovery.html
+InnoDB: for more information.
+2017-03-30 16:17:01 47c InnoDB: Error: page 4 log sequence number 7091369
+InnoDB: is in the future! Current system log sequence number 7066861.
+InnoDB: Your database may be corrupt or you may have copied the InnoDB
+InnoDB: tablespace but not the InnoDB log files. See
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/forcing-innodb-recovery.html
+InnoDB: for more information.

@@ -1,0 +1,183 @@
+ÿ%                                                                                                                                                                                   test                                                                                                                                                                                                                                            ÿ%                                                                                                                                                                                   test\_%                                                                                                                                                                                                                                         2015-09-26 20:34:26 16180 [Note] Event Scheduler: Loaded 0 events
+2015-09-26 20:34:26 16180 [Note] C:\Users\Helz\Desktop\easyphp\EASYPH~1.1VC\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2015-09-26 20:38:11 16180 [Note] C:\Users\Helz\Desktop\easyphp\EASYPH~1.1VC\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2015-09-26 20:38:11 16180 [Note] Giving 1 client threads a chance to die gracefully
+2015-09-26 20:38:11 16180 [Note] Event Scheduler: Purging the queue. 0 events
+2015-09-26 20:38:11 16180 [Note] Shutting down slave threads
+2015-09-26 20:38:13 16180 [Note] Forcefully disconnecting 1 remaining clients
+2015-09-26 20:38:13 16180 [Note] Binlog end
+2017-03-10 18:15:34 2848 [Note] Event Scheduler: Loaded 0 events
+2017-03-10 18:15:34 2848 [Note] C:\Users\admin\Desktop\EasyPHP\MAC-EA~1\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-11 13:46:30 8836 [Note] Event Scheduler: Loaded 0 events
+2017-03-11 13:46:30 8836 [Note] C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-11 15:33:39 8836 [Note] C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2017-03-11 15:33:39 8836 [Note] Giving 5 client threads a chance to die gracefully
+2017-03-11 15:33:39 8836 [Note] Event Scheduler: Purging the queue. 0 events
+2017-03-11 15:33:39 8836 [Note] Shutting down slave threads
+2017-03-11 15:33:41 8836 [Note] Forcefully disconnecting 0 remaining clients
+2017-03-11 15:33:41 8836 [Note] Binlog end
+2017-03-13 18:16:32 15368 [Note] Event Scheduler: Loaded 0 events
+2017-03-13 18:16:32 15368 [Note] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-13 18:42:58 15368 [Note] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2017-03-13 18:42:58 15368 [Note] Giving 4 client threads a chance to die gracefully
+2017-03-13 18:42:58 15368 [Note] Event Scheduler: Purging the queue. 0 events
+2017-03-13 18:42:58 15368 [Note] Shutting down slave threads
+2017-03-13 18:43:00 15368 [Note] Forcefully disconnecting 4 remaining clients
+2017-03-13 18:43:00 15368 [Warning] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Forcing close of thread 2  user: 'root'
+
+2017-03-13 18:43:00 15368 [Warning] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Forcing close of thread 32  user: 'root'
+
+2017-03-13 18:43:00 15368 [Note] Binlog end
+2017-03-13 18:57:25 13656 [Note] Event Scheduler: Loaded 0 events
+2017-03-13 18:57:25 13656 [Note] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-13 18:57:30 ba4 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 18:57:35 ba4 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 18:57:36 ba4 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 18:57:37 ba4 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 18:57:38 ba4 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 18:57:39 ba4 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 18:57:39 ba4 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 18:57:40 2818 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 18:57:43 2818 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 18:57:51 ba4 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 18:57:52 ba4 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 18:59:06 4498 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:00:36 ba4 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:01:03 4498 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:01:04 4498 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:01:24 2818 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:01:26 2818 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:01:34 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:01:40 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:01:41 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:01:52 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:01:59 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:02:53 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:15 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:18 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:21 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:23 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:24 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:26 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:27 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:03:40 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:07:31 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:07:33 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:14:33 4820 InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:14:36 409c InnoDB: cannot calculate statistics for table "footballdb"."authorisation" because the .ibd file is missing. For help, please refer to http://dev.mysql.com/doc/refman/5.6/en/innodb-troubleshooting.html
+2017-03-13 19:14:51 13656 [Note] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2017-03-13 19:14:51 13656 [Note] Giving 3 client threads a chance to die gracefully
+2017-03-13 19:14:51 13656 [Note] Event Scheduler: Purging the queue. 0 events
+2017-03-13 19:14:51 13656 [Note] Shutting down slave threads
+2017-03-13 19:14:53 13656 [Note] Forcefully disconnecting 3 remaining clients
+2017-03-13 19:14:53 13656 [Warning] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Forcing close of thread 3  user: 'root'
+
+2017-03-13 19:14:53 13656 [Note] Binlog end
+2017-03-22 17:20:29 11116 [Note] Event Scheduler: Loaded 0 events
+2017-03-22 17:20:29 11116 [Note] C:\Users\tamuk\Dropbox\UNTITL~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-22 17:22:32 11116 [Note] C:\Users\tamuk\Dropbox\UNTITL~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2017-03-22 17:22:32 11116 [Note] Giving 3 client threads a chance to die gracefully
+2017-03-22 17:22:32 11116 [Note] Event Scheduler: Purging the queue. 0 events
+2017-03-22 17:22:32 11116 [Note] Shutting down slave threads
+2017-03-22 17:22:34 11116 [Note] Forcefully disconnecting 0 remaining clients
+2017-03-22 17:22:34 11116 [Note] Binlog end
+2017-03-22 20:53:59 8872 [Note] Event Scheduler: Loaded 0 events
+2017-03-22 20:53:59 8872 [Note] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-23 14:26:47 8872 [Note] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2017-03-23 14:26:47 8872 [Note] Giving 3 client threads a chance to die gracefully
+2017-03-23 14:26:47 8872 [Note] Event Scheduler: Purging the queue. 0 events
+2017-03-23 14:26:47 8872 [Note] Shutting down slave threads
+2017-03-23 14:26:49 8872 [Note] Forcefully disconnecting 3 remaining clients
+2017-03-23 14:26:49 8872 [Warning] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Forcing close of thread 1  user: 'root'
+
+2017-03-23 14:26:49 8872 [Warning] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Forcing close of thread 7  user: 'root'
+
+2017-03-23 14:26:49 8872 [Warning] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Forcing close of thread 6  user: 'root'
+
+2017-03-23 14:26:49 8872 [Note] Binlog end
+2017-03-30 19:52:54 6772 [Note] Event Scheduler: Loaded 0 events
+2017-03-30 19:52:54 6772 [Note] C:\Users\admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-30 19:57:43 6772 [Note] C:\Users\admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2017-03-30 19:57:43 6772 [Note] Giving 3 client threads a chance to die gracefully
+2017-03-30 19:57:43 6772 [Note] Event Scheduler: Purging the queue. 0 events
+2017-03-30 19:57:43 6772 [Note] Shutting down slave threads
+2017-03-30 19:57:45 6772 [Note] Forcefully disconnecting 0 remaining clients
+2017-03-30 19:57:45 6772 [Note] Binlog end
+2017-03-30 20:03:21 7220 [Note] Event Scheduler: Loaded 0 events
+2017-03-30 20:03:21 7220 [Note] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-30 20:46:58 7220 [Note] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2017-03-30 20:46:58 7220 [Note] Giving 3 client threads a chance to die gracefully
+2017-03-30 20:46:58 7220 [Note] Event Scheduler: Purging the queue. 0 events
+2017-03-30 20:46:58 7220 [Note] Shutting down slave threads
+2017-03-30 20:47:00 7220 [Note] Forcefully disconnecting 3 remaining clients
+2017-03-30 20:47:00 7220 [Warning] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Forcing close of thread 2  user: 'root'
+
+2017-03-30 20:47:00 7220 [Warning] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Forcing close of thread 3  user: 'root'
+
+2017-03-30 20:47:00 7220 [Warning] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Forcing close of thread 1  user: 'root'
+
+2017-03-30 20:47:00 7220 [Note] Binlog end

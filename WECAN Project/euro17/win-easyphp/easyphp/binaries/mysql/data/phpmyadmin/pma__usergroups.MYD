@@ -1,0 +1,16 @@
+2017-02-14 19:44:18 3960 [Note] C:\Users\admin\Desktop\EasyPHP\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2017-02-14 19:44:18 3960 [Note] Giving 3 client threads a chance to die gracefully
+2017-02-14 19:44:18 3960 [Note] Event Scheduler: Purging the queue. 0 events
+2017-02-14 19:44:18 3960 [Note] Shutting down slave threads
+2017-02-14 19:44:20 3960 [Note] Forcefully disconnecting 0 remaining clients
+2017-02-14 19:44:20 3960 [Note] Binlog end
+2017-03-28 20:54:30 6280 [Note] C:\Users\admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2017-03-28 20:54:30 6280 [Note] Giving 4 client threads a chance to die gracefully
+2017-03-28 20:54:30 6280 [Note] Event Scheduler: Purging the queue. 0 events
+2017-03-28 20:54:30 6280 [Note] Shutting down slave threads
+2017-03-28 20:54:32 6280 [Note] Forcefully disconnecting 4 remaining clients
+2017-03-28 20:54:32 6280 [Warning] C:\Users\admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Forcing close of thread 14  user: 'root'
+
+2017-03-28 20:54:32 6280 [Note] Binlog end

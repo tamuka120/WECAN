@@ -1,0 +1,37 @@
+From the X features the system is expected to perform, we managed to successfully implement X. This was accomplished with a mixture of dedication, team work and commitment.
+
+In terms of functionality, the system successfully does:
+
+* feature 1
+* feature 2
+* feature n
+
+We had some issues to implement:
+
+* feature 1
+* feature 2
+* feature n
+
+As every project has, we also faced challenges:
+
+* challenge 1 and how it was solved
+* challenge X and how it was solved
+
+Some of the key good points about this project:
+
+* point 1
+* point 2
+* point X
+
+Some of the key bad points about this project:
+
+* point 1
+* point 2
+* point X
+
+For the future, some of the suggested improvements would be:
+
+* suggestion 1
+* suggestion X
+
+

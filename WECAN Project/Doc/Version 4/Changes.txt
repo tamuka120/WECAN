@@ -1,0 +1,8 @@
+Venue_ID to Authorisations
+
+Venue_ID->Match table -> Match_Venue_venueID
+
+
+Team to State
+
+table state to be created

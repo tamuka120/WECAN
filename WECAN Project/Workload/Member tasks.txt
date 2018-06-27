@@ -1,0 +1,42 @@
+23:01 14/02/2017
+
+Spring Cycle 1 - Completed by Ashraf & Tamuka.
+E-R Diagram - First draft by Hamza & Sumite.
+
+23:01 15/02/2017
+
+E-R Diagram - Second draft by Hamza & Sumite + first designed draft.
+
+23:01 16/02/2017
+
+Login Page - Started by Ashraf, reviewed by Sumite.
+
+
+
+00:28 18/02/2017
+
+Login page - In progress by Tamuka & Ashraf
+Home page - In progress by Tamuka
+SQL Database - Initialized by Hamza & Sumite
+E-R Diagram - Amended by Back End's
+
+00:28 19/02/2017
+
+* Login page linked to users database by Sumite
+
+
+22:57 21/02/2017
+
+Login page - In progress by Tam & Ash, reviewed by Sumite
+Menu page - in progress by Tam & Ash
+E-R Diagram - Translated to mySQL Workbench environment by Hamza, reviewed by Sumite
+Spring Cycle 2 - Initialized by Tamuka
+
+21:10 22/02/2017
+
+Spring cycle 2 - modified by Sumite
+E-R Diagram - exported to database
+Competitors & Team tables completed by Hamza
+Styling and editing by Tamuka
+
+

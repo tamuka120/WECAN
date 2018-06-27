@@ -1,0 +1,39 @@
+22:58 16/02/2017
+
+* Learn PHP - Sumite
+* Learning and understanding SQL (creating, updating and modifing tables) - Hamza & Sumite 
+* Learn and understanding HTML ( input buttons ) - Ashraf
+
+* Finding assets to match the website - Tamuka
+
+* Relationship between tables
+ - Hamza
+* Linking pages together on HTML - Ashraf & Tamuka
+
+00:30 18/02/2017 
+
+* Getting used to phpmyadmin
+* Understand how the controller and views are linked - Sumite
+
+22:52 21/02/2017
+
+* problems with linking buttons to pages - Tamuka
+* getting familiar with mySQL workbench 
+
+23:11 28/02/2017
+
+-Sumite
+	* understand the grocery_crud library 
+	* understand the codeigniter
+	* how to get POST data from form
+	* location of forms
+	* understand how jquery,javascript,css files are connected to php
+
+16:35 04/03/2017
+
+* windows vs Mac users
+
+
+
+Transform database tables into normalisation - 1F,2F & 3F.
+Manage workload - looking after other modules courseworks & tests.

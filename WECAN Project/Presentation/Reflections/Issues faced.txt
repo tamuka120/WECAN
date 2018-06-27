@@ -1,0 +1,14 @@
+22:58 16/02/2017
+
+* Syncing webserver, appropriate way of sharing and accessing the system by everyone
+* Editing issues (tam)
+
+22:54 21/02/2017
+
+* N/A
+
+21:07 22/02/2017
+
+* database errors
+* syncing files
+

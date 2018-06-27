@@ -1,0 +1,26 @@
+table
+
+* Authorisations table destroyed
+
+
+* Cards table needs team_TeamID
+
+// to figure out whether team has been eliminated
+* Team to Matches is many-to-many in result new table created:
+	*is_eliminated{teamID*(primary),Match_ID*, state,match_venue_venueID(primary)} will be created
+		where state can be 1 - eliminated 0 - current
+
+
+// figure out which competitor->cardID has which match
+* Card to Matches is many-to-many in result new table created:
+	*card_matches(MemberID(Primary),cardID*,MatchID*, MatchID_team_teamID*, CardID_team_teamID*)
+
+// figure out which Venue is linked to which Match->cardID, auth is generated on this behalf
+* Matches to Is_eliminated is many-to-many in result new table created:
+	*auth(MemberID,is_eliminated*, match_venue_VenueID,state)
+
+* No foreign key between team and venue
+
+* No relationship between competitor and matches
+
+* 

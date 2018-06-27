@@ -1,0 +1,19 @@
+ÿlocalhost                                                                                                                                                                           root                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       R‰	2017-03-13 16:46:46 6920 [Note] Event Scheduler: Loaded 0 events
+2017-03-13 16:46:46 6920 [Note] C:\Users\tamuk\Dropbox\UNTITL~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-20 17:12:38 4532 [Note] Event Scheduler: Loaded 0 events
+2017-03-20 17:12:38 4532 [Note] C:\Users\admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-24 17:07:34 9104 [Note] Event Scheduler: Loaded 0 events
+2017-03-24 17:07:34 9104 [Note] C:\Users\tamuk\Dropbox\UNTITL~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2017-03-24 17:08:07 9104 [Note] C:\Users\tamuk\Dropbox\UNTITL~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: Normal shutdown
+
+2017-03-24 17:08:07 9104 [Note] Giving 0 client threads a chance to die gracefully
+2017-03-24 17:08:07 9104 [Note] Event Scheduler: Purging the queue. 0 events
+2017-03-24 17:08:07 9104 [Note] Shutting down slave threads
+2017-03-24 17:08:07 9104 [Note] Forcefully disconnecting 0 remaining clients
+2017-03-24 17:08:07 9104 [Note] Binlog end
+2017-03-29 15:42:34 9964 [Note] Event Scheduler: Loaded 0 events
+2017-03-29 15:42:34 9964 [Note] C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe: ready for connections.
+Version: '5.6.15-log'  socket: ''  port: 3306  MySQL Community Server (GPL)

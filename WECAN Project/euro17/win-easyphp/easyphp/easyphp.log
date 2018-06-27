@@ -1,0 +1,62 @@
+30/03 23:28:23 EasyPHP EasyPHP Servers starting
+30/03 23:28:24 EasyPHP Apache CreateProcess "C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\apache\bin\eds-httpd.exe"
+30/03 23:28:24 EasyPHP CreateProcess "C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe --defaults-file="C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\my.ini" --language=english"
+30/03 23:28:29 EasyPHP EasyPHP Check version
+31/03 01:27:02 EasyPHP EasyPHP Stop the servers
+31/03 01:27:02 EasyPHP Apache stop event: ap9128_shutdown
+31/03 01:27:03 EasyPHP MySqlSutdown event = MySQLShutdown11160
+31/03 01:27:03 EasyPHP End EasyPHP...
+31/03 15:18:16 EasyPHP EasyPHP Servers starting
+31/03 15:18:22 EasyPHP Apache CreateProcess "C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\apache\bin\eds-httpd.exe"
+31/03 15:18:22 EasyPHP CreateProcess "C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe --defaults-file="C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\my.ini" --language=english"
+31/03 15:18:27 EasyPHP EasyPHP Check version
+31/03 15:20:38 EasyPHP EasyPHP Stop the servers
+31/03 15:20:38 EasyPHP Apache stop event: ap12772_shutdown
+31/03 15:20:39 EasyPHP MySqlSutdown event = MySQLShutdown7628
+31/03 15:20:39 EasyPHP End EasyPHP...
+05/04 20:00:40 EasyPHP EasyPHP Servers starting
+05/04 20:00:46 EasyPHP Apache CreateProcess "C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\apache\bin\eds-httpd.exe"
+05/04 20:00:46 EasyPHP CreateProcess "C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe --defaults-file="C:\Users\007pc\Dropbox\UNIGRO~1\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\my.ini" --language=english"
+05/04 20:00:51 EasyPHP EasyPHP Check version
+06/04 13:15:21 EasyPHP EasyPHP Stop the servers
+06/04 13:15:21 EasyPHP Apache stop event: ap10124_shutdown
+06/04 13:15:22 EasyPHP MySqlSutdown event = MySQLShutdown8256
+06/04 13:15:22 EasyPHP End EasyPHP...
+12/04 01:08:07 EasyPHP EasyPHP Servers starting
+12/04 01:08:10 EasyPHP Apache CreateProcess "C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\apache\bin\eds-httpd.exe"
+12/04 01:08:10 EasyPHP CreateProcess "C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe --defaults-file="C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\my.ini" --language=english"
+12/04 01:08:15 EasyPHP EasyPHP Check version
+12/04 01:15:38 EasyPHP EasyPHP Stop the servers
+12/04 01:15:38 EasyPHP Apache stop event: ap5636_shutdown
+12/04 01:15:39 EasyPHP MySqlSutdown event = MySQLShutdown6640
+12/04 01:15:39 EasyPHP End EasyPHP...
+12/06 14:22:27 EasyPHP EasyPHP Servers starting
+12/06 14:22:29 EasyPHP Apache CreateProcess "C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\apache\bin\eds-httpd.exe"
+12/06 14:22:29 EasyPHP MySQL ServerBase::Start ScanProcess -> 2908
+12/06 14:22:34 EasyPHP EasyPHP Check version
+12/06 14:30:08 EasyPHP EasyPHP Servers starting
+12/06 14:30:11 EasyPHP Apache CreateProcess "C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\apache\bin\eds-httpd.exe"
+12/06 14:30:11 EasyPHP CreateProcess "C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe --defaults-file="C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\my.ini" --language=english"
+12/06 14:30:16 EasyPHP EasyPHP Check version
+13/06 00:19:45 EasyPHP EasyPHP Stop the servers
+13/06 00:19:45 EasyPHP Apache stop event: ap6948_shutdown
+13/06 00:19:45 EasyPHP Apache::StopExe stop event ap6948_shutdown fail : 2
+13/06 00:19:46 EasyPHP MySqlSutdown event = MySQLShutdown6996
+13/06 00:19:46 EasyPHP MySqlSutdown event open fail = 2
+13/06 00:19:47 EasyPHP End EasyPHP...
+14/06 23:22:36 EasyPHP EasyPHP Servers starting
+14/06 23:22:43 EasyPHP Apache CreateProcess "C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\apache\bin\eds-httpd.exe"
+14/06 23:22:43 EasyPHP CreateProcess "C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe --defaults-file="C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\my.ini" --language=english"
+14/06 23:22:48 EasyPHP EasyPHP Check version
+14/06 23:45:41 EasyPHP EasyPHP Stop the servers
+14/06 23:45:41 EasyPHP Apache stop event: ap2276_shutdown
+14/06 23:45:42 EasyPHP MySqlSutdown event = MySQLShutdown6444
+14/06 23:45:42 EasyPHP End EasyPHP...
+15/06 00:50:29 EasyPHP EasyPHP Servers starting
+15/06 00:50:31 EasyPHP Apache CreateProcess "C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\apache\bin\eds-httpd.exe"
+15/06 00:50:31 EasyPHP CreateProcess "C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\bin\eds-mysqld.exe --defaults-file="C:\Users\Admin\Dropbox\WECAN\EURO17\WIN-EA~1\EasyPHP\binaries\mysql\my.ini" --language=english"
+15/06 00:50:36 EasyPHP EasyPHP Check version
+15/06 00:57:21 EasyPHP EasyPHP Stop the servers
+15/06 00:57:21 EasyPHP Apache stop event: ap11236_shutdown
+15/06 00:57:22 EasyPHP MySqlSutdown event = MySQLShutdown1324
+15/06 00:57:22 EasyPHP End EasyPHP...
